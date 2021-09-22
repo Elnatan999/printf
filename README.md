@@ -1,6 +1,3 @@
-<hr>
-
-# printf     printf     printf     printf     printf     printf     printf     printf     printf
 
 <hr>
 
@@ -14,7 +11,6 @@
 
 # Authors
 
-- [Micheal Shokunbi](https://github.com/Mightysho/)
-- [Ojok Simon Peter](https://github.com/Jokmonsimon/)
+- Elnatan Samuel
 
 <hr>
