@@ -1,4 +1,4 @@
-.TH man 3 "27 July 2021" "0.1" "Custom _printf function"
+.TH man 3 "22 september 2021" "0.1" "Custom _printf function"
 .SH _PRINTF()
 
 .SH NAME
@@ -87,4 +87,4 @@ A blank should be left before a positive number (or empty string) produced by a 
 flags work almost flawlessly, but still we are having issues
 
 .SH AUTHOR
-Micheal Shokunbi and Ojok Simon Peter
+Elnatan Samuel
